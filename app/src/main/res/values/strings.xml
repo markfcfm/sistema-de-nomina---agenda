@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sistema de nomina</string>
+    <string name="action_settings">Opciones</string>
+    <string name="lista_vacia">Sin Datos</string>
+    <string name="title_activity_empleados_formulario">Formulario</string>
+
+    <string name="menu_preferencias">Configuración</string>
+    <string name="menu_crear">Nuevo</string>
+    <string name="menu_ordenar">Ordenar</string>
+    <string name="menu_costo">Obtener costos</string>
+
+    <string name="menu_editar">Editar</string>
+    <string name="menu_guardar">Guardar</string>
+    <string name="menu_cancelar">Cancelar</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="menu_visualizar">Ver</string>
+    <string name="label_nombre_hipoteca">Nombre:</string>
+    <string name="label_numNomina">Num. Nomina:</string>
+    <string name="label_direccion">Direccion:</string>
+    <string name="label_curp">CURP:</string>
+    <string name="label_sueldo">Sueldo:</string>
+    <string name="label_fecha">Fecha:</string>
+    <string name="label_activo">Inactivo</string>
+    <string name="label_departamento">Departamento</string>
+
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    
+    <string name="empleados_crear_titulo">Nuevo registro</string>
+    <string name="empleados_crear_confirmacion">Registro creado</string>
+    <string name="empleados_editar_titulo">Editar registro</string>
+    <string name="empleados_editar_confirmacion">Registro modificado</string>
+    <string name="empleados_eliminar_titulo">Eliminar registro</string>
+    <string name="empleados_eliminar_mensaje">¿Seguro que desea eliminar el registro?</string>
+    <string name="empleados_eliminar_confirmacion">Registro eliminado</string>
+    
+</resources>
